@@ -33,7 +33,7 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
 import com.android.camera.R;
-import com.android.gallery3d.common.ApiHelper;
+import com.android.gallery42.common.ApiHelper;
 
 public class CameraSwitcher extends RotateImageView
         implements OnClickListener, OnTouchListener {

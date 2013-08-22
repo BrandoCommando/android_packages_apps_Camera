@@ -21,10 +21,10 @@ import android.graphics.SurfaceTexture;
 import android.opengl.Matrix;
 import android.util.Log;
 
-import com.android.gallery3d.common.ApiHelper;
-import com.android.gallery3d.ui.GLCanvas;
-import com.android.gallery3d.ui.RawTexture;
-import com.android.gallery3d.ui.SurfaceTextureScreenNail;
+import com.android.gallery42.common.ApiHelper;
+import com.android.gallery42.ui.GLCanvas;
+import com.android.gallery42.ui.RawTexture;
+import com.android.gallery42.ui.SurfaceTextureScreenNail;
 
 /*
  * This is a ScreenNail which can display camera's preview.

@@ -22,7 +22,7 @@ import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.ViewGroup;
 
-import com.android.gallery3d.common.ApiHelper;
+import com.android.gallery42.common.ApiHelper;
 
 public class PreviewSurfaceView extends SurfaceView {
     public PreviewSurfaceView(Context context, AttributeSet attrs) {

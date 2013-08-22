@@ -40,13 +40,13 @@ import android.view.animation.DecelerateInterpolator;
 
 import com.android.camera.ui.LayoutChangeNotifier;
 import com.android.camera.ui.PopupManager;
-import com.android.gallery3d.app.AbstractGalleryActivity;
-import com.android.gallery3d.app.AppBridge;
-import com.android.gallery3d.app.GalleryActionBar;
-import com.android.gallery3d.app.PhotoPage;
-import com.android.gallery3d.common.ApiHelper;
-import com.android.gallery3d.ui.ScreenNail;
-import com.android.gallery3d.util.MediaSetUtils;
+import com.android.gallery42.app.AbstractGalleryActivity;
+import com.android.gallery42.app.AppBridge;
+import com.android.gallery42.app.GalleryActionBar;
+import com.android.gallery42.app.PhotoPage;
+import com.android.gallery42.common.ApiHelper;
+import com.android.gallery42.ui.ScreenNail;
+import com.android.gallery42.util.MediaSetUtils;
 
 /**
  * Superclass of camera activity.

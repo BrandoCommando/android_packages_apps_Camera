@@ -18,7 +18,7 @@ package com.android.camera;
 
 import android.graphics.Bitmap;
 
-import com.android.gallery3d.ui.BitmapScreenNail;
+import com.android.gallery42.ui.BitmapScreenNail;
 
 public class StaticBitmapScreenNail extends BitmapScreenNail {
     public StaticBitmapScreenNail(Bitmap bitmap) {

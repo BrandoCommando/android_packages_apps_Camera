@@ -26,7 +26,7 @@ import android.os.Handler;
 import android.os.Looper;
 import android.util.Log;
 
-import com.android.gallery3d.common.ApiHelper;
+import com.android.gallery42.common.ApiHelper;
 
 import java.io.FileDescriptor;
 import java.io.IOException;

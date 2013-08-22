@@ -23,7 +23,7 @@ import android.media.MediaActionSound;
 import android.media.SoundPool;
 import android.util.Log;
 
-import com.android.gallery3d.common.ApiHelper;
+import com.android.gallery42.common.ApiHelper;
 
 /*
  * This class controls the sound playback according to the API level.

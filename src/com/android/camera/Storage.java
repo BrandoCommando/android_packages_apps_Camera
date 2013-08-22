@@ -29,7 +29,7 @@ import android.provider.MediaStore.Images.ImageColumns;
 import android.provider.MediaStore.MediaColumns;
 import android.util.Log;
 
-import com.android.gallery3d.common.ApiHelper;
+import com.android.gallery42.common.ApiHelper;
 
 import java.io.File;
 import java.io.FileOutputStream;

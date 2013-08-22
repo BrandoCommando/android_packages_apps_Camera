@@ -37,7 +37,7 @@ import android.os.Message;
 import android.view.SurfaceHolder;
 import android.util.Log;
 
-import com.android.gallery3d.common.ApiHelper;
+import com.android.gallery42.common.ApiHelper;
 
 import java.io.IOException;
 

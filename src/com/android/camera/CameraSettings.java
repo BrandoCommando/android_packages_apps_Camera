@@ -32,7 +32,7 @@ import android.os.storage.StorageVolume;
 import android.util.FloatMath;
 import android.util.Log;
 
-import com.android.gallery3d.common.ApiHelper;
+import com.android.gallery42.common.ApiHelper;
 
 import java.util.ArrayList;
 import java.util.Arrays;

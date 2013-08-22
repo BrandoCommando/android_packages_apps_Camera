@@ -60,8 +60,8 @@ import com.android.camera.ui.LayoutNotifyView;
 import com.android.camera.ui.PopupManager;
 import com.android.camera.ui.Rotatable;
 import com.android.camera.ui.RotateLayout;
-import com.android.gallery3d.common.ApiHelper;
-import com.android.gallery3d.ui.GLRootView;
+import com.android.gallery42.common.ApiHelper;
+import com.android.gallery42.ui.GLRootView;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

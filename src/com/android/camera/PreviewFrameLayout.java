@@ -25,7 +25,7 @@ import android.widget.RelativeLayout;
 
 import com.android.camera.ui.LayoutChangeHelper;
 import com.android.camera.ui.LayoutChangeNotifier;
-import com.android.gallery3d.common.ApiHelper;
+import com.android.gallery42.common.ApiHelper;
 
 /**
  * A layout which handles the preview aspect ratio.

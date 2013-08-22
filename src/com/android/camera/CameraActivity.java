@@ -34,8 +34,8 @@ import android.view.ViewGroup;
 import android.widget.FrameLayout;
 
 import com.android.camera.ui.CameraSwitcher;
-import com.android.gallery3d.app.PhotoPage;
-import com.android.gallery3d.util.LightCycleHelper;
+import com.android.gallery42.app.PhotoPage;
+import com.android.gallery42.util.LightCycleHelper;
 
 public class CameraActivity extends ActivityBase
         implements CameraSwitcher.CameraSwitchListener {

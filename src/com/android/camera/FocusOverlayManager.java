@@ -30,7 +30,7 @@ import android.util.Log;
 import com.android.camera.ui.FaceView;
 import com.android.camera.ui.FocusIndicator;
 import com.android.camera.ui.PieRenderer;
-import com.android.gallery3d.common.ApiHelper;
+import com.android.gallery42.common.ApiHelper;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -28,7 +28,7 @@ import android.widget.SimpleAdapter;
 import com.android.camera.IconListPreference;
 import com.android.camera.R;
 
-import com.android.gallery3d.common.ApiHelper;
+import com.android.gallery42.common.ApiHelper;
 
 import java.util.ArrayList;
 import java.util.HashMap;

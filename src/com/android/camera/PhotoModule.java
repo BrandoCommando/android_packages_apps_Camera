@@ -75,8 +75,8 @@ import com.android.camera.ui.Rotatable;
 import com.android.camera.ui.RotateTextToast;
 import com.android.camera.ui.TwoStateImageView;
 import com.android.camera.ui.ZoomRenderer;
-import com.android.gallery3d.app.CropImage;
-import com.android.gallery3d.common.ApiHelper;
+import com.android.gallery42.app.CropImage;
+import com.android.gallery42.common.ApiHelper;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

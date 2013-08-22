@@ -35,7 +35,7 @@ import com.android.camera.CameraActivity;
 import com.android.camera.CameraScreenNail;
 import com.android.camera.R;
 import com.android.camera.Util;
-import com.android.gallery3d.common.ApiHelper;
+import com.android.gallery42.common.ApiHelper;
 
 @TargetApi(ApiHelper.VERSION_CODES.ICE_CREAM_SANDWICH)
 public class FaceView extends View implements FocusIndicator, Rotatable {
