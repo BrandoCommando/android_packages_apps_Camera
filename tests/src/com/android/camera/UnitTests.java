@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.camera;
+package com.android.cam42;
 
 import android.test.suitebuilder.UnitTestSuiteBuilder;
 
@@ -28,7 +28,7 @@ public class UnitTests extends TestSuite {
 
     public static Test suite() {
         return new UnitTestSuiteBuilder(UnitTests.class)
-                .includePackages("com.android.camera.unittest")
+                .includePackages("com.android.cam42.unittest")
                 .named("Camera Unit Tests")
                 .build();
     }

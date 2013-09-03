@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.camera.activity;
+package com.android.cam42.activity;
 
 import android.app.Activity;
 import android.app.Instrumentation;
@@ -29,10 +29,10 @@ import android.view.KeyEvent;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.android.camera.CameraHolder;
-import com.android.camera.CameraManager.CameraProxy;
-import com.android.camera.R;
-import com.android.camera.Util;
+import com.android.cam42.CameraHolder;
+import com.android.cam42.CameraManager.CameraProxy;
+import com.android.cam42.R;
+import com.android.cam42.Util;
 
 import static com.google.testing.littlemock.LittleMock.mock;
 import static com.google.testing.littlemock.LittleMock.doAnswer;

@@ -24,7 +24,7 @@
         android:layout_alignParentRight="true"
         android:layout_centerVertical="true" />
 
-    <com.android.camera.ShutterButton
+    <com.android.cam42.ShutterButton
         android:id="@+id/shutter_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -37,7 +37,7 @@
         android:scaleType="center"
         android:src="@drawable/btn_new_shutter" />
 
-    <com.android.camera.ui.CameraSwitcher
+    <com.android.cam42.ui.CameraSwitcher
         android:id="@+id/camera_switcher"
         style="@style/SwitcherButton"
         android:layout_alignBottom="@id/controls"

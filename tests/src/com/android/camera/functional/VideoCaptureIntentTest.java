@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.android.camera.functional;
+package com.android.cam42.functional;
 
-import com.android.camera.CameraActivity;
-import com.android.camera.R;
+import com.android.cam42.CameraActivity;
+import com.android.cam42.R;
 
 import android.app.Activity;
 import android.content.ContentResolver;

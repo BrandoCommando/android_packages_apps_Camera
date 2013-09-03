@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.camera;
+package com.android.cam42;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -31,7 +31,7 @@ public class CameraLaunchPerformance extends LaunchPerformanceBase {
     public void onCreate(Bundle arguments) {
         super.onCreate(arguments);
         mIntent.setClassName(getTargetContext(),
-                "com.android.camera.CameraActivity");
+                "com.android.cam42.CameraActivity");
         start();
     }
 

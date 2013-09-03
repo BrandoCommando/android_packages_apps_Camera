@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.android.camera.stress;
+package com.android.cam42.stress;
 
-import com.android.camera.CameraActivity;
-import com.android.camera.stress.TestUtil;
+import com.android.cam42.CameraActivity;
+import com.android.cam42.stress.TestUtil;
 
 import android.app.Activity;
 import android.app.Instrumentation;
@@ -27,7 +27,7 @@ import android.test.ActivityInstrumentationTestCase2;
 import android.test.suitebuilder.annotation.LargeTest;
 import android.view.KeyEvent;
 
-import com.android.camera.stress.CameraStressTestRunner;
+import com.android.cam42.stress.CameraStressTestRunner;
 
 /**
  * Junit / Instrumentation test case for camera test
@@ -35,7 +35,7 @@ import com.android.camera.stress.CameraStressTestRunner;
  * Running the test suite:
  *
  * adb shell am instrument \
- *    -e class com.android.camera.stress.VideoCapture \
+ *    -e class com.android.cam42.stress.VideoCapture \
  *    -w com.google.android.camera.tests/android.test.InstrumentationTestRunner
  *
  */

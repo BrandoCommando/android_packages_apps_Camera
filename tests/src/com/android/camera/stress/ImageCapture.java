@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.android.camera.stress;
+package com.android.cam42.stress;
 
-import com.android.camera.CameraActivity;
-import com.android.camera.stress.CameraStressTestRunner;
+import com.android.cam42.CameraActivity;
+import com.android.cam42.stress.CameraStressTestRunner;
 
 import android.app.Instrumentation;
 import android.content.Intent;
@@ -33,7 +33,7 @@ import android.app.Activity;
  * Running the test suite:
  *
  * adb shell am instrument \
- *    -e class com.android.camera.stress.ImageCapture \
+ *    -e class com.android.cam42.stress.ImageCapture \
  *    -w com.google.android.camera.tests/android.test.InstrumentationTestRunner
  *
  */

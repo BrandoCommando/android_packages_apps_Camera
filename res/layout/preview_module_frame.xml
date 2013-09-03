@@ -19,7 +19,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1">
-    <com.android.camera.PreviewFrameLayout android:id="@+id/frame"
+    <com.android.cam42.PreviewFrameLayout android:id="@+id/frame"
             android:layout_centerInParent="true"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
@@ -54,11 +54,11 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:visibility="gone"/>
-        <com.android.camera.ui.RenderOverlay
+        <com.android.cam42.ui.RenderOverlay
             android:id="@+id/render_overlay"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
-    </com.android.camera.PreviewFrameLayout>
+    </com.android.cam42.PreviewFrameLayout>
     <ImageView android:id="@+id/capture_anim_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

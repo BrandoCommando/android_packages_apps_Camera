@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.android.camera.stress;
+package com.android.cam42.stress;
 
-import com.android.camera.CameraActivity;
+import com.android.cam42.CameraActivity;
 
 import android.app.Instrumentation;
 import android.content.Intent;
@@ -35,8 +35,8 @@ import java.io.FileWriter;
  * Running the test suite:
  *
  * adb shell am instrument \
- *    -e class com.android.camera.stress.SwitchPreview \
- *    -w com.android.camera.tests/com.android.camera.stress.CameraStressTestRunner
+ *    -e class com.android.cam42.stress.SwitchPreview \
+ *    -w com.android.cam42.tests/com.android.cam42.stress.CameraStressTestRunner
  *
  */
 public class SwitchPreview extends ActivityInstrumentationTestCase2 <CameraActivity>{

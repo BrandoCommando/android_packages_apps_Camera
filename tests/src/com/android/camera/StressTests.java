@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.android.camera;
+package com.android.cam42;
 
-import com.android.camera.stress.ImageCapture;
-import com.android.camera.stress.SwitchPreview;
-import com.android.camera.stress.CameraLatency;
-import com.android.camera.stress.CameraStartUp;
+import com.android.cam42.stress.ImageCapture;
+import com.android.cam42.stress.SwitchPreview;
+import com.android.cam42.stress.CameraLatency;
+import com.android.cam42.stress.CameraStartUp;
 
 import junit.framework.Test;
 import junit.framework.TestSuite;
@@ -31,8 +31,8 @@ import junit.framework.TestSuite;
  * Running all tests:
  *
  * adb shell am instrument \
- *    -e class com.android.camera.StressTests \
- *    -w com.android.camera.tests/com.android.camera.stress.CameraStressTestRunner
+ *    -e class com.android.cam42.StressTests \
+ *    -w com.android.cam42.tests/com.android.cam42.stress.CameraStressTestRunner
  */
 
 public class StressTests extends TestSuite {

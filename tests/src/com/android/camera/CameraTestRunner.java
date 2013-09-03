@@ -14,16 +14,16 @@
  * limitations under the License.
  */
 
-package com.android.camera;
+package com.android.cam42;
 
 import android.test.InstrumentationTestRunner;
 import android.test.InstrumentationTestSuite;
 
-import com.android.camera.activity.CameraActivityTest;
-import com.android.camera.functional.CameraTest;
-import com.android.camera.functional.ImageCaptureIntentTest;
-import com.android.camera.functional.VideoCaptureIntentTest;
-import com.android.camera.unittest.CameraUnitTest;
+import com.android.cam42.activity.CameraActivityTest;
+import com.android.cam42.functional.CameraTest;
+import com.android.cam42.functional.ImageCaptureIntentTest;
+import com.android.cam42.functional.VideoCaptureIntentTest;
+import com.android.cam42.unittest.CameraUnitTest;
 
 import junit.framework.TestSuite;
 

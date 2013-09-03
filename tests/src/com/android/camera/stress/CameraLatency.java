@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.android.camera.stress;
+package com.android.cam42.stress;
 
-import com.android.camera.CameraActivity;
+import com.android.cam42.CameraActivity;
 
 import android.app.Instrumentation;
 import android.os.Environment;

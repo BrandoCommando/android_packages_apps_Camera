@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.camera.stress;
+package com.android.cam42.stress;
 
 import android.app.Instrumentation;
 import android.os.Environment;
@@ -22,7 +22,7 @@ import android.test.ActivityInstrumentationTestCase2;
 import android.test.suitebuilder.annotation.LargeTest;
 import android.util.Log;
 import android.view.KeyEvent;
-import com.android.camera.CameraActivity;
+import com.android.cam42.CameraActivity;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FilenameFilter;

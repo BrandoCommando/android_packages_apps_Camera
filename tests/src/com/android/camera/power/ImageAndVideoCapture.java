@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.android.camera.power;
+package com.android.cam42.power;
 
-import com.android.camera.CameraActivity;
+import com.android.cam42.CameraActivity;
 
 import android.app.Instrumentation;
 import android.provider.MediaStore;
@@ -31,8 +31,8 @@ import android.content.Intent;
  * Running the test suite:
  *
  * adb shell am instrument \
- *    -e com.android.camera.power.ImageAndVideoCapture \
- *    -w com.android.camera.tests/android.test.InstrumentationTestRunner
+ *    -e com.android.cam42.power.ImageAndVideoCapture \
+ *    -w com.android.cam42.tests/android.test.InstrumentationTestRunner
  *
  */
 
