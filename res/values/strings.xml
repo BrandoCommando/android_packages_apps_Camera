@@ -29,7 +29,7 @@
     <string name="camera_label">Camera 4.2</string>
 
     <!-- label for the 'video recording application shown in the top level 'all applications' -->
-    <string name="video_camera_label">Camcorder</string>
+    <string name="video_camera_label">Camcorder 4.2</string>
 
     <!-- alert to the user to wait for some operation to complete -->
     <string name="wait">Please wait\u2026</string>
